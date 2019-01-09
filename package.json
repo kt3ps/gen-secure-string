@@ -1,18 +1,15 @@
 {
   "name": "gen-secure-string",
   "version": "1.0.0",
-  "main": src/"index.js",
-  "description": 'Node.js module that generates a cryptographically secure random string with a given length',
+  "main": "src/index.js",
+  "description": "Node.js module that generates a cryptographically secure random string with a given length",
   "author": "kt3ps",
   "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git@github.com:kt3ps/gen-secure-string.git"
   },
-  "keywords": [
-    "random",
-    "cryptographically"
-  ],
+  "keywords": ["random", "cryptographically"],
   "bugs": {
     "url": "https://github.com/kt3ps/gen-secure-string/issuess"
   },
